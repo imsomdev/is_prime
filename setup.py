@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="is_prime_check",
-    version="0.1.1",
+    version="1.0.1",
     author="Somdev Das",
     author_email="somdev4g@gmail.com",
     description="A simple package to check if a number is prime",
